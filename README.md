@@ -2,6 +2,8 @@
 
 ![OS select](https://raw.github.com/wiki/mireq/rEFInd-Catalina/screenshot_001.png)
 
+[![Video](https://i.ytimg.com/vi/o5IrZlUkgbA/maxresdefault.jpg)](https://youtu.be/o5IrZlUkgbA)
+
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
