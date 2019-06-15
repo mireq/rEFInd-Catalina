@@ -1,0 +1,26 @@
+# Messages (ie: shutdown)
+msg_color               #FFFFFF
+msg_font                Ubuntu Light:size=18:dpi=96
+msg_x                   50%
+msg_y                   40%
+
+background_style        stretch
+background_color        #ddddee
+
+input_panel_x           25%
+input_panel_y           70%
+input_name_x            394
+input_name_y            181
+input_font              Ubuntu Light:size=12:dpi=96
+input_fgcolor           #000000
+
+username_font           Ubuntu Light:size=14:dpi=96
+username_color          #f9f9f9
+username_x              280
+username_y              183
+password_x              50%
+password_y              183
+
+
+username_msg            Username:
+password_msg            Password:
