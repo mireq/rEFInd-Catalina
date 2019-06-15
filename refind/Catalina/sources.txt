@@ -1,0 +1,2 @@
+Font: Inconsolata - https://fonts.google.com/specimen/Inconsolata
+Icons: Clover theme Catalona https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Catalina/
