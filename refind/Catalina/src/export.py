@@ -16,7 +16,7 @@ def convert_svg():
 		out_filename = os.path.join(DEST_DIR, filename + '.png')
 		os.makedirs(out_dir, exist_ok=True)
 		if not os.path.exists(out_filename):
-			cmd_args = ['inkscape', filename + '.svg', '-e', out_filename, '-d', str(DPI)]
+			cmd_args = ['inkscape', filename + '.svg', '-o', out_filename, '-d', str(DPI)]
 			subprocess.call(cmd_args)
 			cmd_args = ['optipng', '-o7', out_filename]
 			subprocess.call(cmd_args)
