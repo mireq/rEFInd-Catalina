@@ -1,8 +1,8 @@
 ## Clover rEFInd theme
 
-![OS select](https://raw.github.com/wiki/mireq/rEFInd-Catalina/screenshot_001.png)
+![OS select](https://raw.github.com/wiki/mireq/rEFInd-Catalina/screenshot_001.png?v=2023-02-19)
 
-[![Video](https://i.ytimg.com/vi/o5IrZlUkgbA/maxresdefault.jpg)](https://youtu.be/o5IrZlUkgbA)
+[![Video](https://raw.github.com/wiki/mireq/rEFInd-Catalina/photo.jpg?v=2023-02-19)](https://youtu.be/o5IrZlUkgbA)
 
 ### Usage
 
